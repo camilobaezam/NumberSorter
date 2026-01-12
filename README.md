@@ -27,7 +27,7 @@ Ideal para practicar:
 
 1. Clona o descarga el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/NumberSorter.git
+   git clone https://github.com/camilobaezam/NumberSorter.git
 2. Entra al directorio: cd NumberSorter
 
 ## Uso
