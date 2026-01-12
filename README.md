@@ -53,14 +53,23 @@ Ingresa números separados por coma (o 'salir'): salir
 ## Ejemplos adicionales
 
 Entrada negativa y repetidos:
+
 Ingresa números separados por coma (o 'salir'): 4, -1, 4, 0, -5, 2
+
 Salida esperada:
+
 Lista ordenada (por inserción): [-5, -1, 0, 2, 4, 4]
+
 Lista vacía o solo Enter:
+
 Ingresa números separados por coma (o 'salir'): 
+
 → Mensaje: "Entrada vacía. Intenta de nuevo."
+
 Entrada inválida:
+
 Ingresa números separados por coma (o 'salir'): 1,2,a,4
+
 → Mensaje: "Error: Ingresa solo números enteros separados por comas."
 
 ## ¿Por qué este método?
